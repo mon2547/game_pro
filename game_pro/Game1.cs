@@ -15,7 +15,7 @@ namespace game_pro
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
         }
-
+        //update feature1
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
