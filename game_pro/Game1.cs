@@ -16,6 +16,7 @@ namespace game_pro
             IsMouseVisible = true;
         }
         //update feature1
+        //update feature2
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
